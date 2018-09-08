@@ -1,0 +1,17 @@
+{
+    "sEmptyTable":      "Data masih kosong",
+    "sInfo":            "Menampilkan halaman _PAGE_ dari _PAGES_ halaman",
+    "sInfoEmpty":       "Tidak ada data yang tersedia",
+    "sInfoFiltered":    "(dicari dari _MAX_ total data)",
+    "sInfoPostFix":     "",
+    "sInfoThousands":   ".",
+    "sLengthMenu":      "_MENU_ Baris per halaman",    
+    "sSearch":          "cari",
+    "sZeroRecords":     "Maaf, data yang anda cari tidak ditemukan.",
+    "oPaginate": {
+        "sFirst":       "<<",
+        "sPrevious":    "<",
+        "sNext":        ">",
+        "sLast":        ">>"
+    }    
+}
